@@ -4,16 +4,16 @@
 - на крајот од лозинката се додава !1
 
 Администратори:
-1. admin@gmail.com
+1. admin2@gmail.com
 
 Сопственици:
-1. metodi@gmail.com
-2. sashe@gmail.com
+1. metodii@gmail.com
+2. sashee@gmail.com
 
 Корисници:
-1. petar@gmail.com
-2. trajko@gmail.com
-3. sara@gmail.com
+1. petarr@gmail.com
+2. trajkoo@gmail.com
+3. saraa@gmail.com
 
 
 Шемата за базата е претставена на следната слика
